@@ -1,0 +1,41 @@
+﻿/************
+    *   Aa  *
+    ************/
+a{  color:  #38A2F9; }
+
+
+
+
+/************
+    *   Bb  *
+    ************/
+body
+{
+    background-color:   #000;
+    color:              #FFF; 
+    font-family:        'Segoe UI';
+}
+
+
+
+
+/************
+    *   Hh  *
+    ************/
+h1 
+{ 
+    font-size:      22pt; 
+    font-weight:    normal; 
+}
+
+h2 
+{ 
+    font-size:      18pt; 
+    font-weight:    normal; 
+}
+            
+h3 
+{ 
+    font-size:      14pt; 
+    font-weight:    normal; 
+}
